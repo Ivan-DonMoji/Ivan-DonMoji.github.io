@@ -31,7 +31,7 @@ github_username:  patata_dominicana
 
 
 # Build settings
-theme: minima
+theme: cayman
 
 plugins:
   - jekyll-feed
