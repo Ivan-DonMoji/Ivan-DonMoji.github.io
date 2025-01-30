@@ -37,3 +37,5 @@ gem "architect", "~> 0.1.0"
 gem "jekyll-theme-architect", "~> 0.2.0"
 
 gem "jekyll-remote-theme", "~> 0.4.3"
+
+gem "jekyll-theme-cayman", "~> 0.2.0"
