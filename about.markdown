@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyll](https://ivan-donmoji.github.io/Pagina-freelancer)
+Mi primera página web: [Freelancer](https://ivan-donmoji.github.io/Pagina-freelancer)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
